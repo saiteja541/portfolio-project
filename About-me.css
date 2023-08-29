@@ -1,0 +1,92 @@
+.about {
+    margin-top: 50px;
+    margin-left: 20px;
+    border: 2px solid rgb(47, 138, 235);
+    margin: 20px;
+}
+
+.col-md-6 {
+    padding: 20px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+
+}
+
+h2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(243, 13, 151);
+    font-size:x-large;
+}
+
+.tot-pro {
+    border: 2px solid rgb(47, 138, 235);
+    padding: 20px 20px;
+    margin: 20px;
+}
+
+.skills {
+    border: 2px solid rgb(47, 138, 235);
+    padding: 20px 20px;
+    display: flex;
+    margin: 20px;
+}
+
+.box {
+    border: 2px solid rgb(47, 138, 235);
+    margin: 5px 5px;
+}
+
+
+.img-fluid {
+    padding: 20px;
+}
+
+p {
+    color:black;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+    color:crimson;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h6 {
+    color:crimson;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.frame {
+    border: 2px solid rgb(47, 138, 235);
+    margin: 20px 20px;
+}
+
+
+.certificate {
+    position: relative;
+    margin-bottom: 20px;
+  }
+
+  .certificate img {
+    width: 100%;
+    height: auto;
+  }
+
+  .certificate-title {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+
+
+  
